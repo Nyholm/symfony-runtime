@@ -9,7 +9,7 @@ Getting Started
 ---------------
 
 ```
-$ composer require symfony/runtime
+$ composer require nyholm/symfony-runtime
 ```
 
 RuntimeInterface
