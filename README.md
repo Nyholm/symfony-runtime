@@ -1,6 +1,8 @@
 Runtime Component
 =================
 
+> This repository is a mirror of https://github.com/symfony/symfony/pull/36652
+
 Symfony Runtime enables decoupling apps from global state.
 
 Getting Started

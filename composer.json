@@ -1,5 +1,5 @@
 {
-    "name": "symfony/runtime",
+    "name": "nyholm/symfony-runtime",
     "type": "composer-plugin",
     "description": "Enables decoupling PHP apps from global state",
     "homepage": "https://symfony.com",
